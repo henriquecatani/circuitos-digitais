@@ -1,0 +1,28 @@
+a- A + 1 = 1
+b- A * A = A
+c- B * -B = 0  
+d- C + C = C
+d- x * 0 = 0
+e- D * 1 = D
+
+y = A*-B*D + A*-B*-D
+A * -B (D+-D)
+A * -B
+
+z = (-A + B)(A+B)
+-A*A + -A*B + B*A + B*B
+0 + B(-A+A)
+B
+
+x = A*C*D + -A*B*C*D
+C*D(A+-A)
+CD
+
+z = -[(-A+C)*(B+-D)]
+-(-A+C)+-(B+-D)
+A*-C + -B*D
+
+
+x = A*B*-(-A+B*C)
+
+
